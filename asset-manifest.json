@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Logan-Sovereign/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Logan-Sovereign/static/js/main.2b4b29f5.chunk.js",
+    "main.js.map": "/Logan-Sovereign/static/js/main.2b4b29f5.chunk.js.map",
+    "runtime-main.js": "/Logan-Sovereign/static/js/runtime-main.4f2f3a90.js",
+    "runtime-main.js.map": "/Logan-Sovereign/static/js/runtime-main.4f2f3a90.js.map",
+    "static/js/2.41480f30.chunk.js": "/Logan-Sovereign/static/js/2.41480f30.chunk.js",
+    "static/js/2.41480f30.chunk.js.map": "/Logan-Sovereign/static/js/2.41480f30.chunk.js.map",
+    "static/js/3.0b1858b3.chunk.js": "/Logan-Sovereign/static/js/3.0b1858b3.chunk.js",
+    "static/js/3.0b1858b3.chunk.js.map": "/Logan-Sovereign/static/js/3.0b1858b3.chunk.js.map",
+    "index.html": "/Logan-Sovereign/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Logan-Sovereign/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.41480f30.chunk.js.LICENSE.txt": "/Logan-Sovereign/static/js/2.41480f30.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Logan-Sovereign/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f2f3a90.js",
+    "static/js/2.41480f30.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.2b4b29f5.chunk.js"
+  ]
+}
